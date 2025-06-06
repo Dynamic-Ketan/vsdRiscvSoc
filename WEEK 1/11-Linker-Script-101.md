@@ -24,7 +24,7 @@ SECTIONS
 
 The linker script controls how sections of code and data are placed in memory when building a bare-metal ELF file.
 
-Here, .text is placed at 0x00000000 (typically Flash or ROM), and .data at 0x10000000 (typically SRAM).
+Here, .text is placed at 0x00000000 (typically Flash), and .data at 0x10000000 (typically SRAM).
 
 ✅ Flash vs SRAM:
 
