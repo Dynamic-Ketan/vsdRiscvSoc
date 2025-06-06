@@ -35,17 +35,15 @@ Output:
    100b8:	c422                	sw	s0,8(sp)
    100ba:	c606                	sw	ra,12(sp)
 ```
+
 Explanation of each field:
 
-Column	                    Meaning
- 
-000100b4      :-             Address of the instruction
-
-1141	        :-             Machine code opcode (in hex)
-
-addi	        :-             Mnemonic (assembly instruction)
-
-sp, sp, -16	  :-             Operands (registers and values)
+| Column       | Meaning                           |
+|--------------|---------------------------------|
+| 000100b4     | Address of the instruction       |
+| 1141         | Machine code opcode (in hex)     |
+| addi         | Mnemonic (assembly instruction) |
+| sp, sp, -16  | Operands (registers and values)  |
 
 The address is where the instruction resides in memory.
 
