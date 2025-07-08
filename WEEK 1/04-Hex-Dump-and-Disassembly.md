@@ -52,3 +52,5 @@ The opcode is the raw machine code.
 The mnemonic is the human-readable instruction.
 
 The operands specify the registers and immediate values used.
+
+![image](https://github.com/user-attachments/assets/3951504e-586d-43f7-8c1d-7689d0401165)
