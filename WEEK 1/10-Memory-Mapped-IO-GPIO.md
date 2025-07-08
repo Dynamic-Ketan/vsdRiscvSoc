@@ -29,3 +29,5 @@ Without volatile, the compiler might remove the write, assuming it's unnecessary
 gpio is declared as a pointer to a uint32_t (4 bytes), and the address 0x10012000 is 4-byte aligned.
 
 This alignment is correct and safe for 32-bit memory-mapped register access.
+![image](https://github.com/user-attachments/assets/ccb4c245-3ab3-46de-a1b6-3721348e9f10)
+
