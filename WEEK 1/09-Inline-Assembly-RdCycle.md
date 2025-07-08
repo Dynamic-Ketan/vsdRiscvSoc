@@ -40,3 +40,4 @@ Using volatile ensures the instruction is not removed or reordered by optimizati
 The constraint "=r"(c) tells GCC to store the CSR value into the C variable c using a register.
 
 No input operands or clobbers are needed because csrr reads the CSR and writes only the output register.
+![image](https://github.com/user-attachments/assets/7381836f-1bf0-4190-8e63-2801171d02e1)
