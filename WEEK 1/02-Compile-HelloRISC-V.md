@@ -27,6 +27,8 @@ Check that the output file hello.elf is a 32-bit RISC-V executable:
 file hello.elf
 ```
 
+![image](https://github.com/user-attachments/assets/24f7a51d-fc5f-4110-a3f4-fd082fdb7a7f)
+
 Output:
 
 ```bash
