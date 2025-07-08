@@ -103,4 +103,11 @@ qemu-system-riscv32 -nographic -machine sifive_e -kernel hello.elf
 /home/ketan/tools/riscv/lib/gcc/riscv32-unknown-elf/15.1.0/../../../../riscv32-unknown-elf/bin/ld: warning: hello.elf has a LOAD segment with RWX permissions
 ketan@ketan-VirtualBox:~/riscv-labs$ qemu-system-riscv32 -nographic -machine sifive_e -kernel hello.elf
 ```
+![image](https://github.com/user-attachments/assets/7d78bbd2-0852-4864-be4c-a1c9ad145cc3)
+![image](https://github.com/user-attachments/assets/d2271f1d-bda3-4aed-96cf-270c8dd2a64a)
+![image](https://github.com/user-attachments/assets/cfeaacbd-8e1d-4cfc-943d-5674b41538fa)
+![image](https://github.com/user-attachments/assets/360dbb71-27c1-4b8a-bc3c-94021ef6edb8)
+![image](https://github.com/user-attachments/assets/50e83219-8678-42b4-b2cd-19fd2331d4ef)
+
+
 
