@@ -1,4 +1,4 @@
-# Task 7: Running Under an Emulator (QEMU)
+![image](https://github.com/user-attachments/assets/f0b9a628-3bf5-4f97-9be7-a001a68e5bfd)# Task 7: Running Under an Emulator (QEMU)
 
 This guide shows you how to run a bare-metal RISC-V ELF executable on an emulator and print output to the UART console.
 
@@ -43,4 +43,7 @@ Expected Behavior:
 Program runs silently (infinite loop).
 No crash = ✅ success.
 To exit QEMU: Press Ctrl + A, then X.
+
+![image](https://github.com/user-attachments/assets/60116d99-0e82-4229-8ec4-6af3062afced)
+![image](https://github.com/user-attachments/assets/93a971a2-99b2-4500-aa8b-2b679a0a3576)
 
