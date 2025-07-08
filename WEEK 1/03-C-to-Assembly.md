@@ -70,3 +70,4 @@ lw ra, 12(sp) → restores return address
 addi sp, sp, 16 → deallocates stack space
 
 ret → returns from main
+![image](https://github.com/user-attachments/assets/a509d2ec-6da1-4f7a-a8fd-d8550053652c)
