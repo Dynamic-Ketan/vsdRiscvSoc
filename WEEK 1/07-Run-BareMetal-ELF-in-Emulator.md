@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f0b9a628-3bf5-4f97-9be7-a001a68e5bfd)# Task 7: Running Under an Emulator (QEMU)
+# Task 7: Running Under an Emulator (QEMU)
 
 This guide shows you how to run a bare-metal RISC-V ELF executable on an emulator and print output to the UART console.
 
