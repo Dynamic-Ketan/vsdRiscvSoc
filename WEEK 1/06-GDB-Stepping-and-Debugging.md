@@ -87,5 +87,9 @@ Hello, RISC-V!
 (gdb) quit
 ```
 
+![image](https://github.com/user-attachments/assets/1759597b-a5b5-49cf-9aa3-60c17c4d64b3)
+
+
+
 
 
