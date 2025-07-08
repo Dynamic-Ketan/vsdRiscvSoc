@@ -88,6 +88,9 @@ Hello, RISC-V!
 ```
 
 ![image](https://github.com/user-attachments/assets/1759597b-a5b5-49cf-9aa3-60c17c4d64b3)
+![image](https://github.com/user-attachments/assets/d0ee8337-d7e2-4c11-89e1-811a93e0b690)
+![image](https://github.com/user-attachments/assets/ffc34f64-8fb1-4c27-aae0-10aeb69a3004)
+
 
 
 
