@@ -26,3 +26,7 @@ diff -y hello_O0.s hello_O2.s | less
 | **Function Inlining**     | Functions called explicitly                 | Small functions may be inlined    | Removes call overhead, enables further optimization            |
 | **Instruction Count**     | More, straightforward instructions          | Fewer, optimized instructions     | Optimized code is smaller and faster                           |
 | **Stack Frame Setup**     | Full prologue and epilogue                  | Simplified or omitted if possible | Avoids unnecessary setup/teardown for efficiency               |
+![image](https://github.com/user-attachments/assets/0bc1620e-613d-4292-9096-067605570e93)
+![image](https://github.com/user-attachments/assets/318a776a-1927-4b08-ab83-f9f080ff21db)
+
+
