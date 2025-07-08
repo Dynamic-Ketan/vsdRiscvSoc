@@ -75,3 +75,7 @@ ketan@ketan-VirtualBox:~/riscv-labs$ riscv32-unknown-elf-gcc -march=rv32imac -ma
 ketan@ketan-VirtualBox:~/riscv-labs$ qemu-system-riscv32 -nographic -machine sifive_e -kernel endian.elf
 QEMU: Terminated
 ```
+![image](https://github.com/user-attachments/assets/c66525b7-7556-4fb5-b834-da6b61af4cf9)
+![image](https://github.com/user-attachments/assets/a840afb5-d690-47b3-b1fe-5a883454ae44)
+
+
