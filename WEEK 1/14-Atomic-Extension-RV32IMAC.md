@@ -39,4 +39,5 @@ Each of these follows this format:
 
 ```assembly
 amoadd.w rd, rs2, (rs1)
+```
 ![image](https://github.com/user-attachments/assets/7ae9343e-94b9-4640-92bd-c521f1242e16)
