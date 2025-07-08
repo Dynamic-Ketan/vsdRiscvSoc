@@ -19,5 +19,6 @@
 - When the timer interrupt fires, the handler runs.
 - Inside the ISR, clear or update `mtimecmp` to schedule the next interrupt.
 - Return from interrupt properly to resume normal execution.
+![image](https://github.com/user-attachments/assets/a245ab7d-9d55-41a8-b724-2627d317b630)
 
 
