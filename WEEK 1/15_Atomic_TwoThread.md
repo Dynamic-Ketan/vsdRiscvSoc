@@ -69,4 +69,5 @@ Output:
 ```bash
 Shared counter: 15
 ```
+![image](https://github.com/user-attachments/assets/c64c1230-cc91-4af0-a77b-ab81abb8e9b0)
 
