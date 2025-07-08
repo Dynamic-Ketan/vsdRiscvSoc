@@ -33,3 +33,5 @@ Flash (ROM) is non-volatile, retains contents after power-off, and is usually us
 SRAM (RAM) is volatile, faster, and used for modifiable data (.data).
 
 Splitting .text and .data between Flash and SRAM is common in embedded systems to maximize efficiency and performance.
+![image](https://github.com/user-attachments/assets/cfac9a22-223f-4c5d-ab1d-89151693816a)
+
