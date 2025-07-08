@@ -34,3 +34,4 @@ Output:
 ```bash
 hello.elf: ELF 32-bit LSB executable, UCB RISC-V, RVC, soft-float ABI, version 1 (SYSV), statically linked, not stripped
 ```
+![Uploading image.png…]()
