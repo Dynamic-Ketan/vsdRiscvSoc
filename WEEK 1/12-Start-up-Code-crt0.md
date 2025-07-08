@@ -17,3 +17,4 @@
 ### 3. Where to Find `crt0.S`
 - Device-specific examples are available in many RISC-V SDKs (e.g., SiFive SDK).
 - Generic startup files can be found in open-source libraries like **Newlib**.
+![image](https://github.com/user-attachments/assets/504caf13-28d4-46c9-8bdf-085dcb4f77ed)
